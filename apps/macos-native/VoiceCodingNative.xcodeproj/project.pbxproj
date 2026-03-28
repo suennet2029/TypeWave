@@ -1,0 +1,339 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A00000000000000000000001 /* VoiceCodingNativeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000001 /* VoiceCodingNativeApp.swift */; };
+		A00000000000000000000002 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000002 /* AppCoordinator.swift */; };
+		A00000000000000000000003 /* AppSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000003 /* AppSettings.swift */; };
+		A00000000000000000000004 /* AppRuntimeState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000004 /* AppRuntimeState.swift */; };
+		A00000000000000000000005 /* WorkspacePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000005 /* WorkspacePaths.swift */; };
+		A00000000000000000000006 /* SettingsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000006 /* SettingsStore.swift */; };
+		A00000000000000000000007 /* PermissionCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000007 /* PermissionCoordinator.swift */; };
+		A00000000000000000000008 /* TargetAppTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000008 /* TargetAppTracker.swift */; };
+		A00000000000000000000009 /* HelperProcessManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000009 /* HelperProcessManager.swift */; };
+		A0000000000000000000000A /* AudioCaptureService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000000000000000000000A /* AudioCaptureService.swift */; };
+		A0000000000000000000000B /* HotkeyMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000000000000000000000B /* HotkeyMonitor.swift */; };
+		A0000000000000000000000C /* TextInsertionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000000000000000000000C /* TextInsertionService.swift */; };
+		A0000000000000000000000D /* MenuBarContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000000000000000000000D /* MenuBarContentView.swift */; };
+		A0000000000000000000000E /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0000000000000000000000E /* SettingsView.swift */; };
+		A0000000000000000000000F /* RecordingHUDController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000011 /* RecordingHUDController.swift */; };
+		A00000000000000000000010 /* RecordingHUDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000012 /* RecordingHUDView.swift */; };
+		A00000000000000000000011 /* FocusedInputAnchorResolver.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000013 /* FocusedInputAnchorResolver.swift */; };
+		A00000000000000000000012 /* AppIcon.icns in Resources */ = {isa = PBXBuildFile; fileRef = B00000000000000000000014 /* AppIcon.icns */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B00000000000000000000001 /* VoiceCodingNativeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceCodingNativeApp.swift; sourceTree = "<group>"; };
+		B00000000000000000000002 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		B00000000000000000000003 /* AppSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSettings.swift; sourceTree = "<group>"; };
+		B00000000000000000000004 /* AppRuntimeState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppRuntimeState.swift; sourceTree = "<group>"; };
+		B00000000000000000000005 /* WorkspacePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkspacePaths.swift; sourceTree = "<group>"; };
+		B00000000000000000000006 /* SettingsStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsStore.swift; sourceTree = "<group>"; };
+		B00000000000000000000007 /* PermissionCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermissionCoordinator.swift; sourceTree = "<group>"; };
+		B00000000000000000000008 /* TargetAppTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetAppTracker.swift; sourceTree = "<group>"; };
+		B00000000000000000000009 /* HelperProcessManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelperProcessManager.swift; sourceTree = "<group>"; };
+		B0000000000000000000000A /* AudioCaptureService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioCaptureService.swift; sourceTree = "<group>"; };
+		B0000000000000000000000B /* HotkeyMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotkeyMonitor.swift; sourceTree = "<group>"; };
+		B0000000000000000000000C /* TextInsertionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextInsertionService.swift; sourceTree = "<group>"; };
+		B0000000000000000000000D /* MenuBarContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarContentView.swift; sourceTree = "<group>"; };
+		B0000000000000000000000E /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		B0000000000000000000000F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B00000000000000000000010 /* Voice Coding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Voice Coding.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B00000000000000000000011 /* RecordingHUDController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingHUDController.swift; sourceTree = "<group>"; };
+		B00000000000000000000012 /* RecordingHUDView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingHUDView.swift; sourceTree = "<group>"; };
+		B00000000000000000000013 /* FocusedInputAnchorResolver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusedInputAnchorResolver.swift; sourceTree = "<group>"; };
+		B00000000000000000000014 /* AppIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = AppIcon.icns; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C00000000000000000000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		I00000000000000000000001 /* Refresh Bundle Timestamp */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Refresh Bundle Timestamp";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "codesign --force --deep --sign - --identifier local.voicecoding.native \"${TARGET_BUILD_DIR}/${WRAPPER_NAME}\"\ntouch \"${TARGET_BUILD_DIR}/${WRAPPER_NAME}\" \"${TARGET_BUILD_DIR}/${WRAPPER_NAME}/Contents/MacOS/${EXECUTABLE_NAME}\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXGroup section */
+		D00000000000000000000001 = {
+			isa = PBXGroup;
+			children = (
+				D00000000000000000000002 /* VoiceCodingNative */,
+				D00000000000000000000006 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D00000000000000000000002 /* VoiceCodingNative */ = {
+			isa = PBXGroup;
+			children = (
+				B00000000000000000000001 /* VoiceCodingNativeApp.swift */,
+				B00000000000000000000002 /* AppCoordinator.swift */,
+				D00000000000000000000003 /* Models */,
+				D00000000000000000000004 /* Services */,
+				D00000000000000000000005 /* Views */,
+				B0000000000000000000000F /* Info.plist */,
+				B00000000000000000000014 /* AppIcon.icns */,
+			);
+			path = VoiceCodingNative;
+			sourceTree = "<group>";
+		};
+		D00000000000000000000003 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B00000000000000000000003 /* AppSettings.swift */,
+				B00000000000000000000004 /* AppRuntimeState.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D00000000000000000000004 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				B00000000000000000000005 /* WorkspacePaths.swift */,
+				B00000000000000000000006 /* SettingsStore.swift */,
+				B00000000000000000000007 /* PermissionCoordinator.swift */,
+				B00000000000000000000008 /* TargetAppTracker.swift */,
+				B00000000000000000000009 /* HelperProcessManager.swift */,
+				B0000000000000000000000A /* AudioCaptureService.swift */,
+				B0000000000000000000000B /* HotkeyMonitor.swift */,
+				B0000000000000000000000C /* TextInsertionService.swift */,
+				B00000000000000000000011 /* RecordingHUDController.swift */,
+				B00000000000000000000013 /* FocusedInputAnchorResolver.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		D00000000000000000000005 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B0000000000000000000000D /* MenuBarContentView.swift */,
+				B0000000000000000000000E /* SettingsView.swift */,
+				B00000000000000000000012 /* RecordingHUDView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D00000000000000000000006 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B00000000000000000000010 /* Voice Coding.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E00000000000000000000001 /* VoiceCodingNative */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F00000000000000000000002 /* Build configuration list for PBXNativeTarget "VoiceCodingNative" */;
+			buildPhases = (
+				G00000000000000000000001 /* Sources */,
+				C00000000000000000000001 /* Frameworks */,
+				G00000000000000000000002 /* Resources */,
+				I00000000000000000000001 /* Refresh Bundle Timestamp */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = VoiceCodingNative;
+			productName = "Voice Coding";
+			productReference = B00000000000000000000010 /* Voice Coding.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F00000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					E00000000000000000000001 = {
+						CreatedOnToolsVersion = 26.3;
+					};
+				};
+			};
+			buildConfigurationList = F00000000000000000000003 /* Build configuration list for PBXProject "VoiceCodingNative" */;
+			compatibilityVersion = "Xcode 16.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D00000000000000000000001;
+			productRefGroup = D00000000000000000000006 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E00000000000000000000001 /* VoiceCodingNative */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		G00000000000000000000002 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A00000000000000000000012 /* AppIcon.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		G00000000000000000000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A00000000000000000000001 /* VoiceCodingNativeApp.swift in Sources */,
+				A00000000000000000000002 /* AppCoordinator.swift in Sources */,
+				A00000000000000000000003 /* AppSettings.swift in Sources */,
+				A00000000000000000000004 /* AppRuntimeState.swift in Sources */,
+				A00000000000000000000005 /* WorkspacePaths.swift in Sources */,
+				A00000000000000000000006 /* SettingsStore.swift in Sources */,
+				A00000000000000000000007 /* PermissionCoordinator.swift in Sources */,
+				A00000000000000000000008 /* TargetAppTracker.swift in Sources */,
+				A00000000000000000000009 /* HelperProcessManager.swift in Sources */,
+				A0000000000000000000000A /* AudioCaptureService.swift in Sources */,
+				A0000000000000000000000B /* HotkeyMonitor.swift in Sources */,
+				A0000000000000000000000C /* TextInsertionService.swift in Sources */,
+				A0000000000000000000000D /* MenuBarContentView.swift in Sources */,
+				A0000000000000000000000E /* SettingsView.swift in Sources */,
+				A0000000000000000000000F /* RecordingHUDController.swift in Sources */,
+				A00000000000000000000010 /* RecordingHUDView.swift in Sources */,
+				A00000000000000000000011 /* FocusedInputAnchorResolver.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		H00000000000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_LANGUAGE = en;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = VoiceCodingNative/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = local.voicecoding.native;
+				PRODUCT_NAME = "Voice Coding";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 6;
+				VOICE_CODING_WORKSPACE_ROOT = "$(PROJECT_DIR)/../..";
+			};
+			name = Debug;
+		};
+		H00000000000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_LANGUAGE = en;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = VoiceCodingNative/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = local.voicecoding.native;
+				PRODUCT_NAME = "Voice Coding";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 6;
+				VOICE_CODING_WORKSPACE_ROOT = "$(PROJECT_DIR)/../..";
+			};
+			name = Release;
+		};
+		H00000000000000000000003 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+			};
+			name = Debug;
+		};
+		H00000000000000000000004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F00000000000000000000002 /* Build configuration list for PBXNativeTarget "VoiceCodingNative" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				H00000000000000000000001 /* Debug */,
+				H00000000000000000000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F00000000000000000000003 /* Build configuration list for PBXProject "VoiceCodingNative" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				H00000000000000000000003 /* Debug */,
+				H00000000000000000000004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F00000000000000000000001 /* Project object */;
+}

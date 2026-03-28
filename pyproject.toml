@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "typewave"
+version = "0.1.0"
+description = "TypeWave is a native macOS menu bar voice input app with a Python SenseVoice helper."
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "funasr>=1.1.18",
+  "huggingface-hub>=0.29.3",
+  "jieba>=0.42.1",
+  "numpy>=1.26.4",
+  "PySide6>=6.8.2",
+  "pynput>=1.7.7",
+  "pyperclip>=1.9.0",
+  "PyYAML>=6.0.2",
+  "torch>=2.6.0",
+  "torchaudio>=2.6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.5",
+]
+
+[project.scripts]
+voice-coding-service = "voice_coding_app.service:main"
+
+[tool.setuptools]
+package-dir = {"" = "apps/desktop"}
+
+[tool.setuptools.packages.find]
+where = ["apps/desktop"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,179 @@
+{
+  "" : {
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNative-primary.dia",
+    "emit-module-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNative-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNative-primary-emit-module.dia",
+    "pch" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNative-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNative-primary.swiftdeps"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/AppCoordinator.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppCoordinator.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppCoordinator.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppCoordinator.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppCoordinator.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppCoordinator.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppCoordinator.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppCoordinator.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppCoordinator~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Models/AppRuntimeState.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppRuntimeState.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppRuntimeState.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppRuntimeState.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppRuntimeState.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppRuntimeState.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppRuntimeState.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppRuntimeState.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppRuntimeState~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Models/AppSettings.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppSettings.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppSettings.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppSettings.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppSettings.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppSettings.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppSettings.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppSettings.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AppSettings~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/AudioCaptureService.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AudioCaptureService.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AudioCaptureService.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AudioCaptureService.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AudioCaptureService.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AudioCaptureService.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AudioCaptureService.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AudioCaptureService.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/AudioCaptureService~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/FocusedInputAnchorResolver.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/FocusedInputAnchorResolver.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/FocusedInputAnchorResolver.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/FocusedInputAnchorResolver.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/FocusedInputAnchorResolver.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/FocusedInputAnchorResolver.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/FocusedInputAnchorResolver.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/FocusedInputAnchorResolver.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/FocusedInputAnchorResolver~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/HelperProcessManager.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HelperProcessManager.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HelperProcessManager.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HelperProcessManager.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HelperProcessManager.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HelperProcessManager.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HelperProcessManager.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HelperProcessManager.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HelperProcessManager~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/HotkeyMonitor.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HotkeyMonitor.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HotkeyMonitor.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HotkeyMonitor.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HotkeyMonitor.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HotkeyMonitor.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HotkeyMonitor.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HotkeyMonitor.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/HotkeyMonitor~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/PermissionCoordinator.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/PermissionCoordinator.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/PermissionCoordinator.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/PermissionCoordinator.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/PermissionCoordinator.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/PermissionCoordinator.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/PermissionCoordinator.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/PermissionCoordinator.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/PermissionCoordinator~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/RecordingHUDController.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDController.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDController.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDController.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDController.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDController.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDController.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDController.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDController~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/SettingsStore.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsStore.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsStore.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsStore.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsStore.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsStore.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsStore.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsStore.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsStore~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/TargetAppTracker.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TargetAppTracker.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TargetAppTracker.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TargetAppTracker.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TargetAppTracker.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TargetAppTracker.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TargetAppTracker.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TargetAppTracker.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TargetAppTracker~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/TextInsertionService.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TextInsertionService.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TextInsertionService.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TextInsertionService.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TextInsertionService.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TextInsertionService.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TextInsertionService.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TextInsertionService.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/TextInsertionService~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Services/WorkspacePaths.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/WorkspacePaths.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/WorkspacePaths.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/WorkspacePaths.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/WorkspacePaths.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/WorkspacePaths.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/WorkspacePaths.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/WorkspacePaths.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/WorkspacePaths~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Views/MenuBarContentView.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/MenuBarContentView.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/MenuBarContentView.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/MenuBarContentView.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/MenuBarContentView.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/MenuBarContentView.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/MenuBarContentView.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/MenuBarContentView.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/MenuBarContentView~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Views/RecordingHUDView.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDView.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDView.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDView.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDView.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDView.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDView.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDView.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/RecordingHUDView~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/Views/SettingsView.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Applications/Project/The phantom of the opera/apps/macos-native/VoiceCodingNative/VoiceCodingNativeApp.swift" : {
+    "const-values" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNativeApp.swiftconstvalues",
+    "dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNativeApp.d",
+    "diagnostics" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNativeApp.dia",
+    "index-unit-output-path" : "/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNativeApp.o",
+    "llvm-bc" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNativeApp.bc",
+    "object" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNativeApp.o",
+    "swift-dependencies" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNativeApp.swiftdeps",
+    "swiftmodule" : "/Applications/Project/The phantom of the opera/apps/macos-native/build/VoiceCodingNative.build/Debug/VoiceCodingNative.build/Objects-normal/arm64/VoiceCodingNativeApp~partial.swiftmodule"
+  }
+}

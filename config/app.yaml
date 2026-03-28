@@ -1,0 +1,14 @@
+hotkey: option+r
+toggle_record_key:
+paste_mode: clipboard
+paste_delay_ms: 180
+language: auto
+use_itn: true
+quantize: true
+repo_id: FunAudioLLM/SenseVoiceSmall
+model_dirname: SenseVoiceSmall
+sample_rate: 16000
+channels: 1
+min_audio_seconds: 0.2
+max_audio_seconds: 90
+auto_start_listening: false

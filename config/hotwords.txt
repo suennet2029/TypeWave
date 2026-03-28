@@ -1,0 +1,15 @@
+TypeScript
+JavaScript
+React
+useState
+useEffect
+useMemo
+useCallback
+useRef
+useContext
+useDebounce
+Next.js
+TailwindCSS
+Cursor
+Claude
+Ollama

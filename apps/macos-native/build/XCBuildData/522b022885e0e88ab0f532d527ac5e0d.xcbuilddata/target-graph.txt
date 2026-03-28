@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'VoiceCodingNative' in project 'VoiceCodingNative' (no dependencies)

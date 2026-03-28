@@ -1,0 +1,17 @@
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/VoiceCodingNativeApp.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/AppCoordinator.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Models/AppSettings.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Models/AppRuntimeState.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/WorkspacePaths.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/SettingsStore.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/PermissionCoordinator.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/TargetAppTracker.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/HelperProcessManager.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/AudioCaptureService.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/HotkeyMonitor.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/TextInsertionService.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Views/MenuBarContentView.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Views/SettingsView.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/RecordingHUDController.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Views/RecordingHUDView.swift
+/Applications/Project/The\ phantom\ of\ the\ opera/apps/macos-native/VoiceCodingNative/Services/FocusedInputAnchorResolver.swift
